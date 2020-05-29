@@ -12,11 +12,13 @@ Joel McCune on
 ### [Examples](./notebooks)
 
 - [Feature Layer](./notebooks/01-access-feature-service.ipynb)
-- [Living Atlas](./notebooks/02-living-atlas.ipynb)
+- [Living Atlas](./notebooks/02-layer-from-item-id.ipynb)
 - [Socrata to Spatial](./notebooks/03-socrata-geocoding.ipynb)
 
 ### Resources
 
+- [LA COVID Challenge Page](https://grmds.org/2020challenge)
+- 
 - [GeoAI Cookiecutter Template](https://esri.github.io/geoai-cookiecutter/)
 - [ArcGIS Developers](https://developers.arcgis.com/)
 	- [Sign-Up](https://developers.arcgis.com/sign-up/)
