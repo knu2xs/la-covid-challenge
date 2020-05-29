@@ -2,9 +2,18 @@
 
 Examples for LA COVID-19 Data Challenge.
 
-## Getting Started
+## LA Challenge Examples and Resources
 
-Clone the project by 
+### [Examples](./notebooks)
+
+### Resources
+
+- [ArcGIS Developers](https://developers.arcgis.com/)
+	- [Sign-Up](https://developers.arcgis.com/sign-up/)
+- [ArcGIS Python API](https://developers.arcgis.com/python/)
+	- [Guide (samples)](https://developers.arcgis.com/python/guide/)
+	- [Samples (complex notebooks)](https://developers.arcgis.com/python/sample-notebooks/)
+- [Living Atlas](https://livingatlas.arcgis.com/en)
 
 ## Project Organization
 ------------
