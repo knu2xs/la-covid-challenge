@@ -1,0 +1,42 @@
+name: la-covid
+channels:
+  - knu2xs
+  - esri
+  - conda-forge
+dependencies:
+  - arcgis==1.8.0
+  - bokeh
+  - cloudpickle
+  - cookiecutter
+  - dask
+  - distributed
+  - fastparquet
+  - fsspec
+  - h3-py
+  - jupyterlab
+  - murmurhash
+  - mkdocs
+  - nodejs
+  - partd
+  - pillow
+  - pip
+  - psutil
+  - pylint
+  - pytest
+  - python-dotenv
+  - python-graphviz
+  - scipy
+  - scikit-learn
+  - seaborn
+  - shapely
+  - swifter
+  - sqlalchemy
+  - tqdm
+  - pip:
+    - azure-storage-blob
+    - dask_labextension
+    - ipykernel
+    - pyarrow
+    - sodapy
+    - sphinx
+  
