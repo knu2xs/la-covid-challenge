@@ -18,7 +18,6 @@ Joel McCune on
 ### Resources
 
 - [LA COVID Challenge Page](https://grmds.org/2020challenge)
-- 
 - [GeoAI Cookiecutter Template](https://esri.github.io/geoai-cookiecutter/)
 - [ArcGIS Developers](https://developers.arcgis.com/)
 	- [Sign-Up](https://developers.arcgis.com/sign-up/)
