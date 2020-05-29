@@ -2,18 +2,29 @@
 
 Examples for LA COVID-19 Data Challenge.
 
+Joel McCune on 
+
+- [LinkedIn](https://www.linkedin.com/in/joelmccune/)
+- [the World Wide Web blogosphere](https://joelmccune.com)
+
 ## LA Challenge Examples and Resources
 
 ### [Examples](./notebooks)
 
+- [Feature Layer](./notebooks/01-access-feature-service.ipynb)
+- [Living Atlas](./notebooks/02-living-atlas.ipynb)
+- [Socrata to Spatial](./notebooks/03-socrata-geocoding.ipynb)
+
 ### Resources
 
+- [GeoAI Cookiecutter Template](https://esri.github.io/geoai-cookiecutter/)
 - [ArcGIS Developers](https://developers.arcgis.com/)
 	- [Sign-Up](https://developers.arcgis.com/sign-up/)
 - [ArcGIS Python API](https://developers.arcgis.com/python/)
 	- [Guide (samples)](https://developers.arcgis.com/python/guide/)
 	- [Samples (complex notebooks)](https://developers.arcgis.com/python/sample-notebooks/)
 - [Living Atlas](https://livingatlas.arcgis.com/en)
+- [Esri Demographics Layers](http://goto.arcgisonline.com/demographics9/USA_Demographics_and_Boundaries_2019)
 
 ## Project Organization
 ------------
