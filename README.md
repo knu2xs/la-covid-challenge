@@ -12,7 +12,7 @@ Joel McCune on
 ### [Examples](./notebooks)
 
 - [Feature Layer](./notebooks/01-access-feature-service.ipynb)
-- [Living Atlas](./notebooks/02-layer-from-item-id.ipynb)
+- [Layer and Dataframe from Item ID](./notebooks/02-layer-from-item-id.ipynb)
 - [Socrata to Spatial](./notebooks/03-socrata-geocoding.ipynb)
 
 ### Resources
@@ -27,6 +27,7 @@ Joel McCune on
 	- [Samples (complex notebooks)](https://developers.arcgis.com/python/sample-notebooks/)
 - [Living Atlas](https://livingatlas.arcgis.com/en)
 - [Esri Demographics Layers](http://goto.arcgisonline.com/demographics9/USA_Demographics_and_Boundaries_2019)
+- [Location-Based Serices for Analysis](https://developers.arcgis.com/rest/location-based-services/) (bindings are in Python API, but REST documentation is really good)
 
 ## Project Organization
 ------------
